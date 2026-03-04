@@ -61,9 +61,9 @@ st.title("My Streamlit App")
 
 
 #with left:
-    #food= st.radio("food",["pizza","pasta","Burger","Donner"])
+#food= st.radio("food",["pizza","pasta","Burger","Donner"])
 #with right:
-    #st.write(food)
+#st.write(food)
 
 
 text="""
